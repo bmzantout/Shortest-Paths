@@ -1,4 +1,3 @@
-package Assignment3_Q1;
 import java.util.Scanner;
 
 public class Main {
@@ -9,13 +8,9 @@ public class Main {
 
 		//-----------------------------------------------------------------
 		// Title: Question 1
-		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 3
 		// Description: This is the main class for Question 1 which calls 
 		//              the methods that perform the needed operations 
-	    //              which are intended to park given cars in the least
+	        //              which are intended to park given cars in the least
 		//              costly parking slots.
 		//-----------------------------------------------------------------
 		
