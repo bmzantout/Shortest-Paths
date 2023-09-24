@@ -1,4 +1,3 @@
-package Assignment3_Q2;
 import java.util.Scanner;
 
 public class Main {
@@ -8,15 +7,11 @@ public class Main {
 
 		//-----------------------------------------------------------------
 		// Title: Question 2
-		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 3
 		// Description: This is the main class for Question 1 which calls 
 		//              the methods that perform the needed operations
-	    //              which are intended to find the minimum amount of time
+	        //              which are intended to find the minimum amount of time
 		//              needed to reach each station, or state if it is impossible
-	    //              given a set of bus lines.
+	        //              given a set of bus lines.
 		//-----------------------------------------------------------------
 		
 
