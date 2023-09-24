@@ -1,16 +1,10 @@
-package Assignment3_Q1;
-
 public class Edge {
 	
 
 	//-----------------------------------------------------------------
 	// Title: Question 1
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 3
 	// Description: This is an Edge class, which has the attributes and
-    //              methods required for the Edge object used in the Graph
+        //              methods required for the Edge object used in the Graph
 	//-----------------------------------------------------------------
 	
 
