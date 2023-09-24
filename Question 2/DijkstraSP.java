@@ -1,15 +1,10 @@
-package Assignment3_Q2;
-import Assignment1_Q1.Stack;
-import Assignment2_Q2.IndexMinPQ;
+import Stack;
+import IndexMinPQ;
 
 public class DijkstraSP {
 
 	//-----------------------------------------------------------------
 	// Title: Question 2
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 3
 	// Description: This is an edited version of theh  Dijkstra Shortest
 	//              Path algorithm taken from the "Algorithms", 4th 
 	//              edition by Robert Sedgewick and Kevin Wayne" book 
