@@ -1,18 +1,13 @@
-package Assignment3_Q2;
-import Assignment1_Q1.Bag;
+import Bag;
 
 public class Digraph {
 
 	//-----------------------------------------------------------------
 	// Title: Question 2
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 3
 	// Description: This is a Graph class, which has the methods that create 
-    //              a graph and that perform basic graph operations based on
-    //              the Graph data structure. This class also depends on 
-    //              the Bag.java class in its implementation
+        //              a graph and that perform basic graph operations based on
+        //              the Graph data structure. This class also depends on 
+        //              the Bag.java class in its implementation
 	//-----------------------------------------------------------------
 	
 	
